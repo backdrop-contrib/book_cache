@@ -1,0 +1,7 @@
+name = Book Cache
+description = Allows book navigation calculations to be better cached.
+dependencies[] = book
+backdrop = 1.x
+version = VERSION
+type = module
+package = Book
